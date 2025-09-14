@@ -93,7 +93,7 @@ Download a comprehensive **Excel summary report** with:
 
 ```bash
 
-git clone https://github.com/prodigy234/Brent-Superstore-Advanced-Sales-Analytics-Dashboard.git
+git clone https://github.com/MeAkash77/Advanced-Sales-Analytics-Dashboard.git
 cd superstore-dashboard
 ```
 
