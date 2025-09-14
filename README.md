@@ -9,20 +9,6 @@ A fully interactive and data-rich **Sales Analytics Dashboard** built using **Py
 
 This Sales Analytics Dashboard which I developed for Brent Superstore can be accessed live on streamlit [Here](https://brentsuperstore.streamlit.app/)
 
----
-
-## 📬 Author
-
-**Gbenga Kajola**
-
-[LinkedIn](https://www.linkedin.com/in/kajolagbenga)
-
-[Certified_Data_Scientist](https://www.datacamp.com/certificate/DSA0012312825030)
-
-[Certified_Data_Analyst](https://www.datacamp.com/certificate/DAA0018583322187)
-
-[Certified_SQL_Database_Programmer](https://www.datacamp.com/certificate/SQA0019722049554)
-
 
 ---
 
